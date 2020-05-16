@@ -5,6 +5,8 @@ package xxx;
 		public static void main(String[] args) {
 
 			private String lalala;
+			private String hahaha;
+			private String hehehe;
 
 			System.out.println("test!");
 			int a1 = 6;
